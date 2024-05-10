@@ -20,3 +20,7 @@ Refinamentos
 Uma conta pode ser Pessoa Jurídica (PJ) ou Pessoa Física (PF), mas não pode ter as duas informações.
 Pode ter cadastrado mais de uma forma de pagamento.
 A entrega possui status e código de rastreio
+
+
+
+![image](https://github.com/matheusalx/Desafio-DIO/assets/15674874/7b65bc45-f05a-4284-a60b-cc72957f08a1)
